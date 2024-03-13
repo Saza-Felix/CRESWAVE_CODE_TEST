@@ -129,7 +129,7 @@ https://dev.mysql.com/downloads/mysql/
 Clone the Project
 
 ```bash
-git clone https://github.com/Saza-Felix/CRESWAVW_CODE_TEST
+git clone https://github.com/Saza-Felix/CRESWAVE_CODE_TEST
 ```
 
 Open MySQL Server
